@@ -1,0 +1,4 @@
+0 neumonía bacteriana
+1 covid19
+2 Sistema Sano
+3 Neumonía Viral
